@@ -1,0 +1,9 @@
+{
+  "name": "Seloger",
+  "version": "0.0.1",
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "coffee-script": "^1.9.1",
+    "request": "^2.53.0"
+  }
+}
